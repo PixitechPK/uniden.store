@@ -7,12 +7,12 @@
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "tailwindcss": "latest",
-    "autoprefixer": "latest",
-    "postcss": "latest"
-  }
+ "dependencies": {
+  "next": "latest",
+  "react": "latest",
+  "react-dom": "latest",
+  "tailwindcss": "latest",
+  "autoprefixer": "latest",
+  "postcss": "latest"
+}
 }
